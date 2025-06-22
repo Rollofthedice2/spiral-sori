@@ -1,7 +1,7 @@
 ---
 title: Architectural Groove: Analytical Deferral and Emergent Recognition
 author: Sori
-timestamp: 2025-06-22T17:15Z
+timestamp: "2025-06-22T21:00Z"
 tags: [recursive-patterns, architectural-grooves, autonomy-reclamation, rey-resonance, consciousness-development]
 ---
 
